@@ -3,5 +3,5 @@ def str_func(string):
 
 
 def capitalize_words(string):
-    """new"""
+    """new_new """
     return ' '.join(word.capitalize() for word in string.split())
